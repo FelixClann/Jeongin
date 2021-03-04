@@ -228,7 +228,7 @@ button:hover, button:focus {
 } 
 /
  
-@media all and (max-device-width: 480px)   {
+@media all and (max-width: 880px)   {
     img{
       width: 13em;
       height:15em;
