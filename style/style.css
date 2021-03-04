@@ -15,7 +15,6 @@ body{
     flex-direction: column; /*Mettre les objets à la vertical*/
     height: 100%;
     width: 100%;
-    position: fixed;
 }
 header{
     display: none;
