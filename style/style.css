@@ -226,7 +226,8 @@ button:hover, button:focus {
       opacity: 0;
   }
 } 
-/* 
+/
+ 
 @media only screen and (min-device-width : 300px) and (max-device-width : 800px){
     img{
       width: 13em;
@@ -241,4 +242,4 @@ button:hover, button:focus {
       flex-direction: column;
       margin-top: 30px;
   }
-    } */
+    }
