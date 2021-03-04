@@ -240,7 +240,7 @@ button:hover, button:focus {
 h4{
 font-size: 0.5px;
 }
-    .portrait{
+    .details{
       display: flex;
       flex-direction: column;
       margin-top: 30px;
