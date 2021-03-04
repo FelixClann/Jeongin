@@ -52,7 +52,7 @@ nav{
 }
 .portrait > .informations > .details > h4{
     color: #ff8d00;
-    font-size: 200px;
+    font-size: 15px;
     margin-right: 3em;
     text-align: center;
 }
@@ -238,7 +238,7 @@ button:hover, button:focus {
       justify-content: center;
     }
 h4{
-font-size: 50px;
+font-size: 2px;
 }
     .portrait{
       display: flex;
