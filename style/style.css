@@ -238,7 +238,7 @@ button:hover, button:focus {
       justify-content: center;
     }
 h4{
-font-size: 2px;
+font-size: 0.5px;
 }
     .portrait{
       display: flex;
